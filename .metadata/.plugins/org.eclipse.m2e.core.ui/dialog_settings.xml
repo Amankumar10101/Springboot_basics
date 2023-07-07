@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\amankumar.mandal\Spring Tool Suite\employeeRest"/>
+			<item value="C:\Users\amankumar.mandal\Spring Tool Suite\employeeCrud"/>
+			<item value="C:\Users\amankumar.mandal\Spring Tool Suite\restCrud\crudEmployee"/>
+			<item value="C:\Users\amankumar.mandal\Spring Tool Suite\rest"/>
+			<item value="C:\Users\amankumar.mandal\Spring Tool Suite\demo"/>
+			<item value="C:\Users\amankumar.mandal\Downloads\API_Gateway\API_Gateway"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,5 @@
+package com.api.rest.prac;
+
+public class PokemonNotFoundException {
+
+}
